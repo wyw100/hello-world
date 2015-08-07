@@ -1,2 +1,3 @@
-# hello-world
-Sample repository
+Hello,
+
+This is my sample github codes
